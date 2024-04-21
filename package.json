@@ -9,12 +9,12 @@
 		"serve": "vite preview"
 	},
 	"devDependencies": {
+		"signal-utils-jsx-renderer": "git+https://github.com/NesCafe62/signal-utils-jsx-renderer.git#main",
 		"typescript": "^5.4.3",
-		"vite": "^5.2.8",
-		"signal-utils-jsx-renderer": "git+https://github.com/NesCafe62/signal-utils-jsx-renderer.git#main"
+		"vite": "^5.2.8"
 	},
 	"dependencies": {
 		"signal-polyfill": "^0.1.0",
-		"signal-utils": "git+https://github.com/proposal-signals/signal-utils.git#main"
+		"signal-utils": "^0.13.0"
 	}
 }
